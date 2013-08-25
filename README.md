@@ -3,13 +3,13 @@ PolyGen
 
 A program for replicating images using polygons.
 
-Instructions:
+Read more about this project [here](http://sethtoles.com#coPolyGen)
 
-- Generating an image from scratch:
+### Generating an image from scratch:
 
 1) Place a JPEG named masterImage.jpg in the same directory as PolyGen.pde
 
-2) Open started.txt and make sure it reads "0"
+2) Make sure the started.txt reads "0"
 
 3) Open PolyGen.pde with Processing and hit Run
 
@@ -17,7 +17,7 @@ Instructions:
 
 5) At any point, press the "s" key and the current "DNA" of your image will be saved
 
-- Continuing an image using a DNA file
+### Continuing an image using a DNA file
 
 1) Make sure masterImage.jpg and dna.txt are in the same directory as PolyGen.pde and started.txt reads "1"
 
